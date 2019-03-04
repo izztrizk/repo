@@ -1,12 +1,11 @@
-Package: BetterFiveColumnHomescreen
-Version: 1.0.1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), com.chpwn.iconsupport
+Package: com.izztrizk.izztest
+Name: izztest
+Depends: mobilesubstrate
+Version: 0.0.1
 Architecture: iphoneos-arm
-Filename: ./debs/BetterFiveColumnHomescreen.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: Five Column Homescreen with proper spacing!
-Name: betterFiveColumnHomescreen
-Author: Redpandadev <rpdev@rpdev.info>
+Description: An awesome MobileSubstrate tweak!
+MD5sum: 4697c73530030846218f5b1414e6cec9
+Maintainer: izztrizk
+Author: izztrizk
+Section: Tweaks
+
